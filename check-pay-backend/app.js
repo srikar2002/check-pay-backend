@@ -1,6 +1,6 @@
 
 // create an express app
-const atrain = require("express");
+const express = require("express");
 const cors = require("cors");
 var jwt = require('jsonwebtoken');
 var bcrypt = require('bcryptjs');
